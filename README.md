@@ -3,7 +3,6 @@ Arg Dump is a C++ console application that dumps program command line arguments.
 This is my first C++ program in my course of learning C++
 
 Usage Example:
-
 C:\argdump.exe -d C:\program-files\someprogram\program.exe
 
 Output:
